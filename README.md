@@ -1,2 +1,2 @@
-# Netflixapp
+# NetflixwebApp
 Created with CodeSandbox
